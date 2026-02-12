@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新恋愛",
+  "base_artist": "ET-KING",
+  "createdAt": "2026-02-12T12:31:49.058950Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新恋愛",
+      "artist": "ET-KING",
+      "has_synced": false,
+      "path": "select/pl_01_新恋愛_ET-KING.txt"
+    }
+  ]
+}
